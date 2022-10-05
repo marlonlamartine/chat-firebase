@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890181122271",
+    "project_id": "flash-chat-ef041",
+    "storage_bucket": "flash-chat-ef041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890181122271:android:5e3590e258f9fba0ba116a",
+        "android_client_info": {
+          "package_name": "com.lamart.chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890181122271-okbmvsl0e9fp5al9csi1sqfhp04vmerg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6EoYMDQPRR910VktCm7L5NXU1na3tNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890181122271-okbmvsl0e9fp5al9csi1sqfhp04vmerg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
